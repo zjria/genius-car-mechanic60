@@ -1,0 +1,10 @@
+.service-stayle{
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+.service-stayle img{
+    width: 100%;
+}
+.service-stayle h1, h5, p{
+    margin: 7px;
+}
